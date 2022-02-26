@@ -13,4 +13,4 @@ You can type normal text in markdown like you would in any other word editor.
 
 [ACM UMN](https://acm.umn.edu)
 
-![Joker cat is cool](/images/jokercat.jpg)
+![Joker cat is cool](images/jokercat.jpg)
