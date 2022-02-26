@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: knownunown.github.io/my-nice-cool-personal-site/sitemap.xml
