@@ -3,6 +3,8 @@ title = "My nice new cool pages :)"
 template = "index.html"
 +++
 
+# My Cool Website
+
 You can type normal text in markdown like you would in any other word editor.
 
 - Item One
@@ -13,4 +15,4 @@ You can type normal text in markdown like you would in any other word editor.
 
 [ACM UMN](https://acm.umn.edu)
 
-![Joker cat is cool](images/Firestar.jpg)
+![I also love firestar](images/Firestar.jpg)
